@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "CosmeticPI",
+		"description": "We focus on creating cosmetics so you can focus on actually creating game content!",
+		"uuid": "d2da498f-e65f-44c8-9856-dcf4e2dc4a01",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "7ca2c170-dbfe-449b-9f1c-5f8210a718d1",
+			"version": [1, 0, 0]
+		}
+	]
+}
