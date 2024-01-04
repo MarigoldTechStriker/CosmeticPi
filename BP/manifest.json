@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "cosmeticpi",
+		"description": "We are making a cosmetics addon so you can focus on actually adding content to your server/world!",
+		"uuid": "b8d97cff-758f-4407-8fee-c7a8b3f41b63",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "4e3deb76-bb4d-4702-b38a-d8fcbf488262",
+			"version": [1, 0, 0]
+		}
+	]
+}
